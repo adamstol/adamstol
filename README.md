@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam Stolnits</h1>
+<h2 align="center">A Passionate Undergraduate Computer Science Student, Interested in Developing Meaningful Projects.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wtioflameburst&label=Profile%20views&color=0e75b6&style=flat" alt="wtioflameburst" /> </p>
 
 - 🔭 I’m currently working on [Project Luna](https://github.com/WTIOFlameburst/Project-Luna)
