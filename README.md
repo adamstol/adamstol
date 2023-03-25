@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Project Luna](https://github.com/adamstol/Project-Luna)
 
-- 🌱 I’m currently learning **C, HTML, and CSS**
+- 🌱 I’m currently learning **JavaScript and SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
