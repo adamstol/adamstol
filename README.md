@@ -2,7 +2,7 @@
 <h2 align="center">A Passionate Undergraduate Computer Science Student, Interested in Developing Meaningful Projects.
 <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=adamstol&label=Profile%20views&color=0e75b6&style=flat" alt="adamstol" /> </p>
 
-- 🔭 I’m currently working on [Project Luna](https://github.com/adamstol/Project-Luna)
+- 🔭 I’m currently working on [WTIOWeather Bot](https://github.com/adamstol/WTIOWeather-Bot)
 
 - 🌱 I’m currently learning **JavaScript and SQL**
 
