@@ -18,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamstol&show_icons=true&locale=en&layout=compact&theme=radical" alt="adamstol" /></p>
 
-[![Adam's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=astol)](https://github.com/KnlnKS/leetcode-stats)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamstol&theme=radical)
+
+<p><img align = "right">[![Adam's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=astol)](https://github.com/KnlnKS/leetcode-stats)<p>
