@@ -20,4 +20,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamstol&theme=radical)
 
-<p><img align = "right">[![Adam's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=astol)](https://github.com/KnlnKS/leetcode-stats)<p>
+[![Adam's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=astol&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
