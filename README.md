@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [WTIOWeather-Bot](https://github.com/adamstol/WTIOWeather-Bot)
 
-- 🌱 I’m currently learning **SQL, JavaScript**
+- 🌱 I’m currently learning **JavaScript, SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
