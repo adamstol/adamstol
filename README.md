@@ -31,8 +31,4 @@
 </br>
 </br>
 
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamstol&theme=radical)
-
 [![Adam's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=astol&theme=dark)](https://leetcode.com/astol/)
