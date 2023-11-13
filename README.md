@@ -32,5 +32,3 @@
 </br>
 
 [![Adam's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=astol&theme=dark)](https://leetcode.com/astol/)
-
-hi
