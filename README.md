@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on [Sustainify](https://github.com/adamstol/Sustainify)
 
-- 🌱 I’m currently learning **JavaScript, SQL**
+- 🌱 I’m currently learning **C++, SQL**
+
+- 🎨 View my design portfolio here [Design Portfolio](https://drive.google.com/drive/folders/1iAGAXz2AgGNrDITxDzneogauy9-kPL5I?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
