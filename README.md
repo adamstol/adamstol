@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **C++, SQL**
 
-- 🎨 View my design portfolio here [Design Portfolio](https://drive.google.com/drive/folders/1iAGAXz2AgGNrDITxDzneogauy9-kPL5I?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adam-stolnits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam-stolnits" height="30" width="40" /></a>
