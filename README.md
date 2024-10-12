@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamstol&label=Profile%20views&color=0e75b6&style=flat" alt="adamstol" /> </p>
 
-- 🔭 I’m currently working on [Sustainify](https://github.com/adamstol/Sustainify)
+- 🔭 I’m currently working on [My Portfolio](https://adamstol.github.io/portfolio/)
 
 - 🌱 I’m currently learning **C++, SQL**
 
